@@ -1,0 +1,12 @@
+session_id,timestamp,hand_number,bankroll_start,true_count,running_count,decks_remaining,bet_amount,recommended_bet,bet_optimal,player_card1,player_card2,dealer_upcard,player_initial_value,player_soft_initial,decisions_made,decisions_correct,strategy_accuracy,final_player_value,dealer_final_value,player_busted,dealer_busted,player_blackjack,dealer_blackjack,surrendered,doubled,split,hand_result,amount_won_lost,bankroll_end,count_guess,count_actual,count_correct
+20250530_220616,2025-05-30T22:06:34.054117,1,1000,0,-2,7.980769230769231,25,25,True,9,10,4,19,False,stand,True,100.0,19,24,False,True,False,False,False,False,False,win,25,1025,,-2,
+20250530_220616,2025-05-30T22:08:07.798643,2,1025,0,0,7.865384615384615,25,25,True,3,J,6,13,False,stand,True,100.0,13,20,False,False,False,False,False,False,False,loss,-25,1000,-2.0,0,False
+20250530_220616,2025-05-30T22:09:15.612644,3,1000,0,2,7.75,25,25,True,5,3,K,20,False,"hit,hit,stand","True,True,True",100.0,20,17,False,False,False,False,False,False,False,win,25,1025,0.0,2,False
+20250530_220616,2025-05-30T22:09:40.532709,4,1025,0,0,7.653846153846154,25,25,True,9,J,7,19,False,stand,True,100.0,19,24,False,True,False,False,False,False,False,win,25,1050,2.0,0,False
+20250530_220616,2025-05-30T22:10:12.558330,5,1050,0,0,7.5576923076923075,25,25,True,8,5,6,13,False,stand,True,100.0,13,17,False,False,False,False,False,False,False,loss,-25,1025,0.0,0,True
+20250530_220616,2025-05-30T22:10:56.485220,6,1025,0,1,7.4423076923076925,25,25,True,10,J,7,20,False,stand,True,100.0,20,18,False,False,False,False,False,False,False,win,25,1050,0.0,1,False
+20250530_220616,2025-05-30T22:11:21.791144,7,1050,0,0,7.346153846153846,25,25,True,10,10,9,20,False,stand,True,100.0,20,23,False,True,False,False,False,False,False,win,25,1075,1.0,0,False
+20250530_220616,2025-05-30T22:12:40.655207,9,1112,0,0,7.173076923076923,25,25,True,6,Q,2,16,False,stand,True,100.0,16,18,False,False,False,False,False,False,False,loss,-25,1087,-1.0,0,False
+20250530_220616,2025-05-30T22:13:14.724850,10,1087,0,-2,7.076923076923077,25,25,True,2,10,Q,22,False,hit,True,100.0,22,17,True,False,False,False,False,False,False,loss,-25,1062,0.0,-2,False
+20250530_220616,2025-05-30T22:13:49.958219,11,1062,0,0,6.961538461538462,25,25,True,8,10,5,18,False,stand,True,100.0,18,22,False,True,False,False,False,False,False,win,25,1087,-2.0,0,False
+20250530_220616,2025-05-30T22:14:23.055299,12,1087,0,-1,6.846153846153846,25,25,True,9,7,J,23,False,hit,False,0.0,23,24,True,True,False,False,False,False,False,loss,-25,1062,0.0,-1,False

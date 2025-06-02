@@ -1,0 +1,2 @@
+session_id,start_time,end_time,duration_minutes,starting_bankroll,ending_bankroll,net_result,total_wagered,win_rate,hands_played,blackjacks,busts,splits,doubles,surrenders,total_decisions,correct_decisions,strategy_accuracy,count_attempts,correct_counts,count_accuracy,ev_per_hand,risk_of_ruin,kelly_compliance
+20250530_220616,2025-05-30T22:06:16.910584,2025-05-30T22:14:43.277632,8.4394508,1000,1062,62,275,0.5454545454545454,11,0,2,0,0,0,13,11,90.9090909090909,10,1,10.0,2.272727272727273,2.0095220090461292e-12,100.0
