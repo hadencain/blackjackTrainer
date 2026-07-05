@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+*.pyc
+.claude/
+.superpowers/
+session_log.md
+# session output (runtime-generated game logs)
+blackjack_data/hands_*.csv
+blackjack_data/session_*.csv
